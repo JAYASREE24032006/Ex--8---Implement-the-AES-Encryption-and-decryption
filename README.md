@@ -1,14 +1,18 @@
-# EX8-Implement The AES Encrypption and Decryption
-## Aim:
-  To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
+# EX8 - IMPLEMENT THE AES ENCRYPTION AND DECRYPTION
+## AIM :
+  To Implement Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
-## ALGORITHM: 
-  1. AES is based on a design principle known as a substitution–permutation. 
-  2. AES does not use a Feistel network like DES, it uses variant of Rijndael. 
-  3. It has a fixed block size of 128 bits, and a key size of 128, 192, or 256 bits. 
-  4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
+## ALGORITHM : 
+### STEP 1 :
+AES is based on a design principle known as a substitution–permutation. 
+### STEP 2 :
+AES does not use a Feistel network like DES, it uses variant of Rijndael. 
+### STEP 3 :
+It has a fixed block size of 128 bits, and a key size of 128, 192, or 256 bits. 
+### STEP 4 :
+AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
-## PROGRAM: 
+## PROGRAM : 
 ```
 #include <stdio.h>
 #include <string.h>
@@ -40,8 +44,8 @@ int main()
     return 0;
 }
 ```
-## OUTPUT:
+## OUTPUT :
 ![image](https://github.com/user-attachments/assets/aad3b476-00c1-4eff-9c41-166d70a0a2ac)
 
-## RESULT: 
-Hence,to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
+## RESULT : 
+The program to implement the  Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is executed successfully.
