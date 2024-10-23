@@ -1,4 +1,4 @@
-# EX8 - IMPLEMENT THE AES ENCRYPTION AND DECRYPTION
+# EX8 - ADVANCED ENCRYPTION STANDARD(AES)
 ## AIM :
   To Implement Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
