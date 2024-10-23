@@ -2,6 +2,8 @@
 ## AIM :
   To Implement Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
+## THEORM :
+The Advanced Encryption Standard (AES) is a symmetric encryption algorithm widely used to secure sensitive data. It operates on fixed block sizes of 128 bits with key lengths of 128, 192, or 256 bits. AES encrypts data through multiple rounds of substitution, permutation, and mixing to ensure confidentiality.
 ## ALGORITHM : 
 ### STEP 1 :
 AES is based on a design principle known as a substitution–permutation. 
